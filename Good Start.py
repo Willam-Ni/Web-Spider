@@ -1,1 +1,3 @@
-import numpy
+def greet(name):
+    return "hello"+name
+print(greet("Lambert"))
